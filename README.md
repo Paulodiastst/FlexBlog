@@ -20,7 +20,7 @@ Com Flexbox não precisará mais definir valores fixos e flutuar elementos para 
 </P>
 
 ## 📁 Acesso ao projeto
-Você pode acessar os arquivos do projeto clicando [aqui](https://github.com).
+Você pode acessar os arquivos do projeto clicando [aqui](https://paulodiastst.github.io/FlexBlog/).
 
 
 
